@@ -1,0 +1,204 @@
+Epoch 1/40
+----------
+C:\Users\Arnav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\nn\functional.py:5560: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:555.)
+  attn_output = scaled_dot_product_attention(q, k, v, attn_mask, dropout_p, is_causal)
+train Loss: 4.1959 Acc: 0.1176
+val Loss: 3.3324 Acc: 0.4529
+
+Epoch 2/40
+----------
+train Loss: 2.9252 Acc: 0.5010
+val Loss: 2.4573 Acc: 0.6186
+
+Epoch 3/40
+----------
+train Loss: 2.1013 Acc: 0.6961
+val Loss: 1.9256 Acc: 0.7127
+
+Epoch 4/40
+----------
+train Loss: 1.6566 Acc: 0.7814
+val Loss: 1.6081 Acc: 0.7696
+
+Epoch 5/40
+----------
+train Loss: 1.3302 Acc: 0.8431
+val Loss: 1.3982 Acc: 0.7824
+
+Epoch 6/40
+----------
+train Loss: 1.1251 Acc: 0.8578
+val Loss: 1.2568 Acc: 0.7951
+
+Epoch 7/40
+----------
+train Loss: 0.9581 Acc: 0.8892
+val Loss: 1.1439 Acc: 0.8157
+
+Epoch 8/40
+----------
+train Loss: 0.8508 Acc: 0.9000
+val Loss: 1.0515 Acc: 0.8255
+
+Epoch 9/40
+----------
+train Loss: 0.7637 Acc: 0.9088
+val Loss: 0.9865 Acc: 0.8363
+
+Epoch 10/40
+----------
+train Loss: 0.7196 Acc: 0.9157
+val Loss: 0.9269 Acc: 0.8490
+
+Epoch 11/40
+----------
+train Loss: 0.6342 Acc: 0.9225
+val Loss: 0.8880 Acc: 0.8431
+
+Epoch 12/40
+----------
+train Loss: 0.5689 Acc: 0.9392
+val Loss: 0.8577 Acc: 0.8471
+
+Epoch 13/40
+----------
+train Loss: 0.5355 Acc: 0.9402
+val Loss: 0.8196 Acc: 0.8559
+
+Epoch 14/40
+----------
+train Loss: 0.5070 Acc: 0.9382
+val Loss: 0.7922 Acc: 0.8490
+
+Epoch 15/40
+----------
+train Loss: 0.4562 Acc: 0.9461
+val Loss: 0.7744 Acc: 0.8500
+
+Epoch 16/40
+----------
+train Loss: 0.4454 Acc: 0.9451
+val Loss: 0.7488 Acc: 0.8608
+
+Epoch 17/40
+----------
+train Loss: 0.4023 Acc: 0.9588
+val Loss: 0.7313 Acc: 0.8627
+
+Epoch 18/40
+----------
+train Loss: 0.3985 Acc: 0.9588
+val Loss: 0.7074 Acc: 0.8706
+
+Epoch 19/40
+----------
+train Loss: 0.3744 Acc: 0.9569
+val Loss: 0.6951 Acc: 0.8647
+
+Epoch 20/40
+----------
+train Loss: 0.3714 Acc: 0.9588
+val Loss: 0.6798 Acc: 0.8676
+
+Epoch 21/40
+----------
+train Loss: 0.3454 Acc: 0.9637
+val Loss: 0.6712 Acc: 0.8657
+
+Epoch 22/40
+----------
+train Loss: 0.3376 Acc: 0.9618
+val Loss: 0.6594 Acc: 0.8745
+
+Epoch 23/40
+----------
+train Loss: 0.3297 Acc: 0.9627
+val Loss: 0.6439 Acc: 0.8755
+
+Epoch 24/40
+----------
+train Loss: 0.3060 Acc: 0.9657
+val Loss: 0.6372 Acc: 0.8696
+
+Epoch 25/40
+----------
+train Loss: 0.2967 Acc: 0.9627
+val Loss: 0.6224 Acc: 0.8755
+
+Epoch 26/40
+----------
+train Loss: 0.2788 Acc: 0.9765
+val Loss: 0.6144 Acc: 0.8745
+
+Epoch 27/40
+----------
+train Loss: 0.2639 Acc: 0.9706
+val Loss: 0.6052 Acc: 0.8843
+
+Epoch 28/40
+----------
+train Loss: 0.2534 Acc: 0.9755
+val Loss: 0.5972 Acc: 0.8794
+
+Epoch 29/40
+----------
+train Loss: 0.2662 Acc: 0.9696
+val Loss: 0.5921 Acc: 0.8824
+
+Epoch 30/40
+----------
+train Loss: 0.2669 Acc: 0.9686
+val Loss: 0.5841 Acc: 0.8784
+
+Epoch 31/40
+----------
+train Loss: 0.2327 Acc: 0.9745
+val Loss: 0.5780 Acc: 0.8804
+
+Epoch 32/40
+----------
+train Loss: 0.2524 Acc: 0.9676
+val Loss: 0.5718 Acc: 0.8833
+
+Epoch 33/40
+----------
+train Loss: 0.2217 Acc: 0.9765
+val Loss: 0.5691 Acc: 0.8902
+
+Epoch 34/40
+----------
+train Loss: 0.2213 Acc: 0.9794
+val Loss: 0.5620 Acc: 0.8863
+
+Epoch 35/40
+----------
+train Loss: 0.2285 Acc: 0.9735
+val Loss: 0.5580 Acc: 0.8843
+
+Epoch 36/40
+----------
+train Loss: 0.2620 Acc: 0.9618
+val Loss: 0.5555 Acc: 0.8853
+
+Epoch 37/40
+----------
+train Loss: 0.2285 Acc: 0.9725
+val Loss: 0.5511 Acc: 0.8833
+
+Epoch 38/40
+----------
+train Loss: 0.2145 Acc: 0.9775
+val Loss: 0.5460 Acc: 0.8814
+
+Epoch 39/40
+----------
+train Loss: 0.2157 Acc: 0.9745
+val Loss: 0.5400 Acc: 0.8843
+
+Epoch 40/40
+----------
+train Loss: 0.1872 Acc: 0.9775
+val Loss: 0.5411 Acc: 0.8775
+
+Training complete in 17m 6s
+Best validation accuracy: 0.8902
